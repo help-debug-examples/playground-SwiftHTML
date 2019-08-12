@@ -4,4 +4,4 @@ Uses [swift-html](https://github.com/pointfreeco/swift-html) library to render H
 
 ## Usage
 
-Open in Xcode, play around, open `output.html` in a browser (`output.html` located ~/Documents/Shared Playground Data/`).
+Open in Xcode, play around, open `output.html` in a browser (`output.html` located `~/Documents/Shared Playground Data/`).
